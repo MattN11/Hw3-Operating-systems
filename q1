@@ -1,0 +1,1 @@
+Q1: One of the design philosophies of Go is “Don't communicate by sharing memory; share memory by communicating.” Briefly explain what it means, and the advantages and disadvantages of this design principle. 
